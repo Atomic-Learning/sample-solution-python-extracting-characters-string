@@ -1,0 +1,28 @@
+
+<p>Let's perform a series of string operations step by step.</p>
+<py-cell>
+# Define your string
+my_string = "python is so fun"
+</py-cell>
+
+<p>Extract and print the first character, the first three, and the last three characters.</p>
+<py-cell>
+first_char = my_string[0]
+print(first_char)
+first_three = my_string[:3] # Could also use my_string[0:3]
+print(first_three)
+last_three = my_string[-3:]
+print(last_three)
+</py-cell>
+
+<p>Concatenate the first three and last three characters.</p>
+<py-cell>
+joined = first_three + last_three
+print(joined)
+</py-cell>
+
+<p>Get every other character starting with the second character.</p>
+<py-cell>
+alternating = my_string[1::2]
+print(alternating)
+</py-cell>

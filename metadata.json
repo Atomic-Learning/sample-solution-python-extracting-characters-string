@@ -1,0 +1,16 @@
+{
+    "title": "Sample Solution: String Operations",
+    "slug": "sample-solution-python-string-operations",
+    "description": "Sample solution showing a walkthrough of all string operations from creating the initial string through extracting and concatenating substrings.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "exercise-python-string-operations"
+    ],
+    "related": []
+}
