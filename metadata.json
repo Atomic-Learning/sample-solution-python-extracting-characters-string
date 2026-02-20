@@ -1,12 +1,13 @@
 {
-    "title": "Sample Solution: String Operations",
+    "title": "Sample Solution: Python - Extracting Characters from a String",
     "slug": "sample-solution-python-extracting-characters-string",
     "description": "Sample solution showing a walkthrough of all string operations from creating the initial string through extracting and concatenating substrings.",
     "authors": [
         "chris-cooling"
     ],
     "tags": [
-        "python"
+        "python",
+        "sample-solution"
     ],
     "duration": 3,
     "prerequisites": [
